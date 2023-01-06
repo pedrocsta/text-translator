@@ -2,6 +2,7 @@
 O objetivo deste programa é traduzir textos em vários idiomas usando a API do Translator Text da Microsoft Azure.
 
 ## Para utilizar o programa, você precisa:
+- Adicionar a chave do Translator Text no arquivo "constants.py";
 - Adicionar o que deseja traduzir no arquivo "to_translate.txt";
 - Configurar o arquivo "settings.py", informando os idiomas desejados.
 
